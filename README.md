@@ -4,8 +4,7 @@ Welcome to my Personal Portfolio Website project! This portfolio showcases my sk
 
 ## 🌐 Live Demo
 
-Check out the live demo of my Personal Portfolio Website : [https://adarshgandhi29.github.io/PRODIGY_WD_04/
-](https://github.com/divypurohit/Personal-Portfolio-Website/tree/main)
+Check out the live demo of my Personal Portfolio Website : https://github.com/divypurohit/Personal-Portfolio-Website/tree/main
 ## ✨ Features
 
 - **📱 Responsive Design :** Fully optimized for various devices, including desktops, tablets, and mobile phones.
